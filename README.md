@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amal Sboui</h1>
-<h3 align="center">I'm a third-year ICT Engineering student at INSAT with a strong focus on DevOps and Cloud technologies.</h3>
+<h3 align="center">I'm a fourth-year ICT Engineering student at INSAT with a strong focus on DevOps and Cloud technologies.</h3>
 
 - 📫 How to reach me **amal.sboui@insat.ucar.tn**
 
